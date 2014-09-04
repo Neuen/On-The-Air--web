@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="97px" height="81px" viewBox="0 0 97 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="frac" sketch:type="MSLayerGroup" transform="translate(1.000000, 0.000000)" fill="#FFFFFF">
+            <path d="M48.052,78.747 L69.845,41 L26.259,41 L48.052,78.747 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M96.075,81 L-0.075,81 L48,0 L96.075,81 L96.075,81 Z M3.314,79 L92.685,79 L48,3.71 L3.314,79 L3.314,79 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M47.923,40.919 L58.845,22 L37,22 L47.923,40.919 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M25.923,78.919 L36.845,60 L15,60 L25.923,78.919 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M69.923,78.919 L80.845,60 L59,60 L69.923,78.919 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
